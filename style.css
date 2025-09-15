@@ -51,6 +51,57 @@ button {
 }
 
 
+/* light */
+body.light {
+  background-color: #f9f9f9;
+  color: #222;
+}
+body.light .small-container {
+  background: #fff;
+}
+body.light button {
+  background: #222;
+  color: #fff;
+}
+
+/* dark */
+body.dark {
+  background-color: #1e1e1e;
+  color: #f9f9f9;
+}
+body.dark .small-container {
+  background: #2c2c2c;
+}
+body.dark button {
+  background: #f9f9f9;
+  color: #222;
+}
+
+/* blue */
+body.blue {
+  background-color: #1e3a8a;
+  color: #e0e7ff;
+}
+body.blue .small-container {
+  background: #2c4999;
+}
+body.blue button {
+  background: #1e40af;
+  color: #fff;
+}
+
+/* forest */
+body.forest {
+  background-color: #064e3b;
+  color: #d1fae5;
+}
+body.forest .small-container {
+  background: #046c4e;
+}
+body.forest button {
+  background: #065f46;
+  color: #fff;
+}
 
 
 
